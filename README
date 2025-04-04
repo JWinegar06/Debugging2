@@ -1,0 +1,25 @@
+INDEX.HTML Fixes
+    Line 07 - Added the style.css file path
+    Line 13 - Added "text" to the "rainbow-"
+    Line 16 - Finished closing the H2 tag
+    Line 18 - Added the "div" to the opening tag
+    Line 21 - Added the closing div tag
+    Line 28 - Added the JaveScript link
+    
+INDEX.JS Fixes
+    Line 01 - Changed "#NAME" to "#name" to reflect what is in the HTML file
+    Line 02 - Changed ".displaymycode" to ".DISPLAY" to reflect what is in the HTML file
+    Line 05 - Added "display.textContent = input.value})" to close the function
+    Line 07 - Added "let num = 2" to add to the '3' in Line 8
+    Line 08 - Removed the (simpleMath(2, 3)) with (num + 3)
+    
+STYLE.CSS Fixes
+    Line 01 - Added the "h" to the 1
+    Line 05 - Added the "input type id '#name'" to reflect the the HTML file
+    Line 39 - Added "text" to the H2 class ".rainbow-" 
+    Line 41 - Removed the "-webkit- from the background-clip (I didn't know what the webkit was and decided to see what would happen)
+    Line 42 - Removed the "-webkit- from the animation (I didn't know what the webkit was and decided to see what would happen)
+    Line 67 - The format was right, but it needed the "div" in the HTML file 
+  
+
+
