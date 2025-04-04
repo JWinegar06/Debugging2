@@ -1,5 +1,5 @@
 let input = document.querySelector("#name");
-let display = document.querySelector(".DISPLAY");
+let display = document.querySelector(".display");
  
 input.addEventListener("input", function () {
     display.textContent = input.value})
